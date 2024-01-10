@@ -1,0 +1,14 @@
+@import"../navbar.css";
+/* @import"../_typography.css"; */
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
